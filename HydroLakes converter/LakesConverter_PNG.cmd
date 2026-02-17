@@ -1,0 +1,1 @@
+LakesConverter convert .\HydroLAKES\HydroLAKES_polys_v10.shp HydroLAKES.raw HydroLakes.png
